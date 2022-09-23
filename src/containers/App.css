@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+  background-color: lightblue;
+  padding-bottom: 100%;
+}
+
+@media screen and (max-width: 425px) {
+  img {
+    height: 2rem;
+    width: 2rem;
+  }
+}
